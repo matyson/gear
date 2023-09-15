@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "css.lint.unknownAtRules": "ignore",
+  "files.autoSave": "afterDelay",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "Victor Mono",
+  "editor.fontLigatures": "'ss01', 'ss05', 'ss07'",
+  "editor.semanticTokenColorCustomizations": {
+    "rules": {
+      "*.declaration": { "italic": true }
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["keyword.control", "entity", "comment"],
+        "settings": { "fontStyle": "italic" }
+      }
+    ]
+  },
+  "editor.fontSize": 15
+}

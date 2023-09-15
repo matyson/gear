@@ -1,0 +1,11 @@
+astro-build.astro-vscode
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+dracula-theme.theme-dracula
+esbenp.prettier-vscode
+GitHub.copilot
+ms-vscode.vscode-typescript-next
+Prisma.prisma
+unifiedjs.vscode-mdx
+wix.vscode-import-cost
+yoavbls.pretty-ts-errors
